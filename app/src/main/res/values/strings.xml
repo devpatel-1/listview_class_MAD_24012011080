@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView Class App</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_mobile_no">Mobile Number</string>
+</resources>
